@@ -3,13 +3,13 @@
 
 [![Join the chat at https://gitter.im/MokoVersity/react-102-training](https://badges.gitter.im/MokoVersity/react-102-training.svg)](https://gitter.im/MokoVersity/react-101-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-本課程延續 React 101 的內容，繼續介紹 React 的進階用法，並學習 Redux 框架。React 與 Redux 的關係是什麼？為什麼 React 要搭配其它框架使用？本課程將從基本的 MVC 架構模式，說明 React 與 Redux 的搭配觀念，課程將以 Todo App 做為實作題目。
+本課程延續 React 101 的內容，繼續介紹 React 的進階用法，並學習 Redux 框架。React 與 Redux 的關係是什麼？為什麼 React 要搭配其它框架使用？本課程將從基本的 MVC 架構模式，說明 React 與 Redux 的搭配觀念，課程將以 Notepad App 做為實作題目。
 
 ## 課程大綱
 
 * 第 1 課：React 102 進階實作
 * 第 2 課：Redux 基礎與理論架構
-* 第 3 課：Todo App 開發演練
+* 第 3 課：Notepad App 開發演練
 
 ## 學習藍圖
 
