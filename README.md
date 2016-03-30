@@ -80,3 +80,6 @@ React 102 採用工作坊的形式，搭配一個 Notepad 的專題，讓初學�
 * 時間：2016 年 4 月 17 日，09:30~17:30（共計 7 小時）
 * 地點： 台北市博愛路 25 號 3F
 
+## 延伸課程
+
+* 第三期 台北班（假日，日期未定）：[React 101 實戰教學：開始用 React 打造 Web Frontend (第 3 梯次)](https://www.mokoversity.com/training/React-101)
