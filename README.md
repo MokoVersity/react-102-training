@@ -5,6 +5,10 @@
 
 本課程延續 [React 101](https://www.mokoversity.com/training/React-101) 的內容，繼續介紹 React 的進階用法，並學習 Redux 框架。React 與 Redux 的關係是什麼？為什麼 React 要搭配 Redux 框架使用？本課程將從基本的 MVC 架構模式，說明 React 與 Redux 的搭配觀念，課程將以 Notepad App 做為實作題目。
 
+先睹為快：開課 2 個梯次的 React 101 課程，將在 4 月 30 日推出線上課程版本。
+
+<a href="https://www.mokoversity.com/training/React-101-Online" class="btn btn-primary">搶鮮預 覽React 101 線上課程</a>
+
 ## 課程大綱
 
 * 第 1 課：React 102 進階實作
