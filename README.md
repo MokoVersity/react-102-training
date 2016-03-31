@@ -7,7 +7,7 @@
 
 先睹為快：開課 2 個梯次的 React 101 課程，將在 4 月 30 日推出線上課程版本。
 
-<a href="https://www.mokoversity.com/training/React-101-Online" class="btn btn-default">搶鮮預 覽React 101 線上課程</a>
+<a href="https://www.mokoversity.com/training/React-101-Online" class="btn btn-default" style="color: #000;">搶鮮預 覽React 101 線上課程</a>
 
 ## 課程大綱
 
