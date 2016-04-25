@@ -84,6 +84,15 @@ React 102 採用工作坊的形式，搭配一個 Notepad 的專題，讓初學�
 * 時間：2016 年 4 月 24 日，09:30~17:30（共計 7 小時）
 * 地點： 台北市博愛路 25 號 3F
 
+## 開課紀錄
+
+* 2016/4/24: 台北班 React 102 實戰教學：使用 Redux 打造 Notepad App (第一期，已結訓)
+
+|上課照片：2016/4/24 第一期 |
+|---|
+|<img src="https://cloud.githubusercontent.com/assets/5070688/14773569/08c3ec58-0ade-11e6-9966-904731e129f9.jpeg">|
+
+
 ## 延伸課程
 
 * 台北班（假日，日期未定）：[React 101 實戰教學：開始用 React 打造 Web Frontend (第 3 梯次)](https://www.mokoversity.com/training/React-101)
