@@ -86,9 +86,9 @@ React 102 採用工作坊的形式，搭配一個 Notepad 的專題，讓初學�
 
 ## 開課紀錄
 
-* 2016/4/24: 台北班 React 102 實戰教學：使用 Redux 打造 Notepad App (第一期 Casear Chu 主講，已結訓)
+* 2016/4/24: 台北班 React 102 實戰教學：使用 Redux 打造 Notepad App (第一期，已結訓)
 
-|上課照片：2016/4/24 第一期 |
+|上課照片：2016/4/24 第一期 Casear Chu 主講 |
 |---|
 |<img src="https://cloud.githubusercontent.com/assets/5070688/14773569/08c3ec58-0ade-11e6-9966-904731e129f9.jpeg">|
 
