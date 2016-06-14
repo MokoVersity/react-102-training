@@ -61,7 +61,7 @@ React 102 採用工作坊的形式，搭配一個 Notepad 的專題，讓初學�
     <div class="row" style="margin-top: 65px;">
       <div class="col-md-2"><img src="https://avatars0.githubusercontent.com/u/2017447?v=3&amp;s=460" width="128" height="128" class="img-circle img-responsive"></div>
       <div class="col-md-10 text-left">
-        <h3 style="font-weight: 400; font-size: 1.6em; ">Casear Chu (本梯次主講者)</h3>
+        <h3 style="font-weight: 400; font-size: 1.6em; ">Casear Chu </h3>
         <p style="font-weight: 300; color: #222; margin-top: -12px;">Casear 對於各種前後端技術皆有興趣，曾於 Microsoft 與 Trend Micro 任職，2012 獲得 Node.js Knockout 台灣區第一名，於 JSDC 2014、2015 擔任講師，曾致力於建立 slidenow（線上 Markdown 編輯 slide），目前興趣轉向 IoT，於 2015 年建立 KitchBot，轉至於廚具的系統分享與建立，並獲得聯發科穿戴式比賽亞軍。</p>
       </div>
     </div>
